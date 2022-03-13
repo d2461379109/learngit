@@ -1,2 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
